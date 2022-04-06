@@ -12,7 +12,7 @@
       "connect"         : "2.1.x",
       "connect-timeout" : "0.0.1",
       "express"         : "2.x.x",
-      "moment"          : "1.6.x",
+      "moment"          : "2.29.2",
       "mongoose"        : "2.5.x",
       "uglify-js"       : "1.2.x",
       "underscore"      : "*",
