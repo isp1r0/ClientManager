@@ -13,7 +13,7 @@
       "connect-timeout" : "0.0.1",
       "express"         : "2.x.x",
       "moment"          : "1.6.x",
-      "mongoose"        : "2.5.x",
+      "mongoose"        : "6.13.6",
       "uglify-js"       : "1.2.x",
       "underscore"      : "*",
       "gzippo"          : "0.1.4",
